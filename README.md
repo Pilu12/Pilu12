@@ -13,24 +13,33 @@
 - 😅 I'm a very very newbie in coding 🐧
 - 😎 All of my projects are available at [**my repositories**](https://github.com/Pilu12?tab=repositories)
 
-- ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **badminton**, **swimming** and **reading books** especially **self-help** book
+- ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **game **, **eating** and **sleeping** especially **self-help** life
 
 ## 📈  GitHub Stats
 
 <p align="center">
+  <!-- Top Languages -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilu12&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu12&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
-  <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=pilu12&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
-  </div>
+  
+  <!-- GitHub Stats -->
+<!-- GitHub Stats đỏ -->
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu12&hide_border=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF4500&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Stats"/>
+
+  
+  <!-- Streak Stats -->
+<!-- Streak Stats đỏ -->
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pilu12&layout=compact&hide_border=true&theme=dark&background=000000&stroke=FF0000&fire=FF4500&currStreakNum=FF0000&sideNums=FFFFFF&sideLabels=FF0000&dates=FFFFFF" />
+</div>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
+  <!-- Typing SVG với màu sáng nổi bật trên nền tối -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=%23FFD700&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
-<!-- ## My contribution graph get eaten by Orochimaru 🐍🐊🐲
-![https://github.com/pilu/pilu/blob/output/github-contribution-grid-snake.svg](https://github.com/pilu/pilu/blob/output/github-snake.svg) -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilu12/Pilu12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pilu12/Pilu12/output/github-contribution-grid-snake.svg">
