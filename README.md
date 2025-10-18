@@ -60,10 +60,6 @@
   </a> &nbsp;&nbsp;
   
   
-  <!-- <a href="https://profile-summary-for-github.herokuapp.com/user/pilu" target="_blank">
-    <img align="center" alt="Pilu | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp; -->
-  
   <a href="https://www.youtube.com/@PiluCanQuet-uq9xu" target="_blank">
     <img align="center" alt="Pilu | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
   </a> &nbsp;&nbsp;
