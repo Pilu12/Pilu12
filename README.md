@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Curious about me?
 
-- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47oave78i42k7n567fhsx3hg7lrz1bp3v1sba3mg02&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="200" align="right"/>
+- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="/qp-git.gif" width="250" height="200" align="right"/>
 - 📚 My major is **Software Engineering**
 - 🌏 I'm living in HCM city, VietNam
 - 😅 I'm a very very newbie in coding 🐧
@@ -29,8 +29,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
-## My contribution graph get eaten by Orochimaru 🐍🐊🐲
-![https://github.com/pilu/pilu/blob/output/github-contribution-grid-snake.svg](https://github.com/pilu/pilu/blob/output/github-snake.svg)
+<!-- ## My contribution graph get eaten by Orochimaru 🐍🐊🐲
+![https://github.com/pilu/pilu/blob/output/github-contribution-grid-snake.svg](https://github.com/pilu/pilu/blob/output/github-snake.svg) -->
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
