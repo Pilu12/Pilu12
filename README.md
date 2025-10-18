@@ -35,20 +35,22 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="mailto:phongnqse172516@gmail.com" >
-    <img align="center" alt="Pilu | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+  <a href="mailto:phongnqse172516@gmail.com">
+  <img align="center" alt="Pilu | Gmail" width="26px" 
+       src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" />
+</a>
+ &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/phong.nguyen1803/" target="_blank">
       <img align="center" alt="Pilu | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/pilu" target="_blank">
+  <!-- <a href="https://profile-summary-for-github.herokuapp.com/user/pilu" target="_blank">
     <img align="center" alt="Pilu | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp; -->
   
-  <a href="#" target="_blank">
+  <a href="https://www.youtube.com/@PiluCanQuet-uq9xu" target="_blank">
     <img align="center" alt="Pilu | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
   </a> &nbsp;&nbsp;
 <p> 
