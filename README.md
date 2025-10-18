@@ -13,7 +13,7 @@
 - 😅 I'm a very very newbie in coding 🐧
 - 😎 All of my projects are available at [**my repositories**](https://github.com/Pilu12?tab=repositories)
 
-- ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **game **, **eating** and **sleeping** especially **self-help** life
+- ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **game **, **eating** and **sleeping** especially **self-help** 
 
 ## 📈  GitHub Stats
 
@@ -23,7 +23,7 @@
   
   <!-- GitHub Stats -->
 <!-- GitHub Stats đỏ -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu12&hide_border=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF4500&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Stats"/>
+<!-- GitHub Stats --> <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu12&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
 
   
   <!-- Streak Stats -->
