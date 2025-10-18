@@ -18,10 +18,10 @@
 ## 📈  GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilu&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilu12&show_icons=true&theme=tokyonight&hide_border=true&show=reviews"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=pilu12&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
   <div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=pilu&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=pilu12&ayout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400&hide=html,css,scss,handlebars" />
   </div>
 </p>
 
