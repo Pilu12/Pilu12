@@ -38,6 +38,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=%23FFD700&width=435&lines=Thanks+for+watching+my+profile!">
 </p>
 
+<p align="center">
+  <img src="side-right.gif" width="250" height="200" alt="qp-git gif" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pilu12/Pilu12/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pilu12/Pilu12/output/github-contribution-grid-snake.svg">
