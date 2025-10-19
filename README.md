@@ -6,7 +6,8 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Curious about me?
 
-- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="/qp-git.gif?raw=true" width="250" height="200" align="right"/>
+- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="https://github.com/Pilu12/Pilu12/blob/main/qp-git.gif?raw=true" width="250" height="200" align="right" alt="qp-git gif" />
+
 - 📚 My major is **Software Engineering**
 - 🌏 I'm living in HCM city, VietNam
 - 😅 I'm a very very newbie in coding 🐧
