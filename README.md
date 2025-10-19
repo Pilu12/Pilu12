@@ -1,8 +1,4 @@
-<!-- markdownlint-disable MD009 MD012 MD033 MD041 MD045 MD037 -->
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/pilu?style=social"> 
-&nbsp;&nbsp; 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/pilu?style=social"/> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=pilu&label=Profile%20views&color=brightgreen&style=flat" alt="pilu"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/pilu?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/pilu?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=pilu&label=Profile%20views&color=brightgreen&style=flat" alt="pilu"/> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF69B4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hii!+I'm+Pilu;Nguyễn+Quốc+Phong..;Eager+to+learn+and+grow!;Pilu+zzzz!!!;Welcome+to+my+profile!" alt="Title"></img>
@@ -10,8 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Curious about me?
 
-- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)
-  <img src="/qp-git.gif" width="250" height="200" align="right"/>
+- 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="/qp-git.gif" width="250" height="200" align="right"/>
 - 📚 My major is **Software Engineering**
 - 🌏 I'm living in HCM city, VietNam
 - 😅 I'm a very very newbie in coding 🐧
@@ -71,5 +66,3 @@
 <div align="center">
   &copy; 2025 Nguyễn Quốc Phong Pilu 🛌 😴 
 </div>
-
-<!-- markdownlint-disable MD009 MD012 MD033 MD041 MD045 MD037 -->
