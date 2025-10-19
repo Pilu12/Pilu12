@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="side-right.gif" width="250" height="200" alt="qp-git gif" />
+  <img src="pilu-git.gif" width="250" height="200" alt="qp-git gif" />
 </p>
 
 <picture>
