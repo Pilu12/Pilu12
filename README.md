@@ -68,5 +68,5 @@
 <p>
 
 <div align="center">
-  &copy; 2025 Nguyễn Quốc Phong Pilu 🛌 😴 
+  &copy; 2025 Nguyễn Quốc Phong Pilu 🛌 😴 ✌️ 
 </div>
