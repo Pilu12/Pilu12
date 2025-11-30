@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently studying as a student at [**FPT University HCM**](https://hcmuni.fpt.edu.vn/)<img src="pilu-animation.gif" width="250" height="200" align="right" alt="qp-git gif" />
 - 📚 My major is **Software Engineering**
 - 🌏 I'm living in HCM city, VietNam
-- 😅 I'm a very very newbie in coding 🐧
+- 😅 I'm a very very newbie in coding 🐧🐧🐧
 - 😎 All of my projects are available at [**my repositories**](https://github.com/Pilu12?tab=repositories)
 
 - ⚡ Fun fact: **I'm an introvert part-time** :))))<br/>I'm keen on **coding**, playing **game **, **eating** and **sleeping** especially **self-help**
